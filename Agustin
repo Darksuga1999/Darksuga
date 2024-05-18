@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perú</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+
+        header {
+            background-color: #d32f2f;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        section {
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #d32f2f;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenido a Perú</h1>
+        <p>Descubre la rica historia, cultura, gastronomía y destinos turísticos de este fascinante país</p>
+    </header>
+
+    <nav>
+        <a href="#historia">Historia</a>
+        <a href="#cultura">Cultura</a>
+        <a href="#gastronomia">Gastronomía</a>
+        <a href="#turismo">Turismo</a>
+        <a href="#enlaces">Enlaces Relacionados</a>
+    </nav>
+
+    <main>
+        <section id="historia">
+            <h2>Historia</h2>
+            <p>Perú es un país con una historia fascinante que se remonta a las antiguas civilizaciones preincaicas...</p>
+            <p>Para obtener más información sobre la historia de Perú, visita <a href="https://es.wikipedia.org/wiki/Historia_del_Per%C3%BA">Historia del Perú en Wikipedia</a>.</p>
+        </section>
+
+        <section id="cultura">
+            <h2>Cultura</h2>
+            <p>La cultura peruana es diversa y rica, influenciada por las tradiciones indígenas, europeas, africanas y asiáticas...</p>
+            <p>Para conocer más sobre la cultura peruana, visita <a href="https://es.wikipedia.org/wiki/Cultura_del_Per%C3%BA">Cultura del Perú en Wikipedia</a>.</p>
+        </section>
+
+        <section id="gastronomia">
+            <h2>Gastronomía</h2>
+            <p>La gastronomía peruana es reconocida mundialmente por su variedad, sabor y sofisticación. Platos como el ceviche, el lomo saltado y el ají de gallina son algunos ejemplos de la deliciosa comida peruana...</p>
+            <p>Para descubrir más sobre la gastronomía peruana, visita <a href="https://es.wikipedia.org/wiki/Gastronom%C3%ADa_del_Per%C3%BA">Gastronomía del Perú en Wikipedia</a>.</p>
+        </section>
+
+        <section id="turismo">
+            <h2>Turismo</h2>
+            <p>Perú ofrece una amplia gama de destinos turísticos, desde las misteriosas ruinas de Machu Picchu hasta las playas de arena blanca de Máncora. Los viajeros pueden explorar la selva amazónica, escalar montañas, hacer surf, observar la vida silvestre y mucho más...</p>
+            <p>Para planificar tu viaje a Perú, visita <a href="https://www.peru.travel/es-lat/">Peru.travel</a>.</p>
+        </section>
+
+        <section id="enlaces">
+            <h2>Enlaces Relacionados</h2>
+            <ul>
+                <li><a href="https://www.mincetur
